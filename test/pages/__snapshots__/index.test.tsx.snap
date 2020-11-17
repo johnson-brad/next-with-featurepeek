@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="jsx-2624918063 container"
+  >
+    <main
+      class="jsx-2624918063"
+    >
+      <h1
+        class="jsx-2624918063 title"
+      >
+        Welcome to 
+        <a
+          class="jsx-2624918063"
+          href="https://nextjs.org"
+        >
+          Next.js!
+        </a>
+      </h1>
+      <p
+        class="jsx-2624918063 description"
+      >
+        You've just started a new Next.js project with deployment previews enhanced by 
+        <a
+          class="jsx-2624918063"
+          href="https://featurepeek.com"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          FeaturePeek
+        </a>
+        .
+      </p>
+      <div
+        class="jsx-2624918063 grid"
+      >
+        <a
+          class="jsx-2624918063 card"
+          href="https://docs.featurepeek.com/nextjs-plugin/#3-create-a-new-pull-request"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          <h3
+            class="jsx-2624918063"
+          >
+            Documentation →
+          </h3>
+          <p
+            class="jsx-2624918063"
+          >
+            You've automated steps 1 & 2 — just a few more steps to complete the integration.
+          </p>
+        </a>
+      </div>
+    </main>
+    <footer
+      class="jsx-2624918063"
+    >
+      <a
+        class="jsx-2624918063"
+        href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Powered by 
+        <img
+          alt="Vercel Logo"
+          class="jsx-2624918063 logo"
+          src="/vercel.svg"
+        />
+      </a>
+    </footer>
+  </div>
+</DocumentFragment>
+`;
